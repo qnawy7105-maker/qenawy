@@ -1,0 +1,8 @@
+{
+  "name": "ترياق - سر الطبيعة",
+  "description": "منصة رائدة للخلطات العشبية الطبيعية المصممة خصيصاً لاحتياجاتك الصحية. اكتشف خلطتك المثالية عبر اختبارنا الذكي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
